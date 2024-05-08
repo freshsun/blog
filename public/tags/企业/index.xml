@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 纸上事躬行 PracticeOnPaper</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on 纸上事躬行 PracticeOnPaper</description>
+    <title>企业 on 纸上事躬行 PracticeOnPaper</title>
+    <link>http://localhost:1313/tags/%E4%BC%81%E4%B8%9A/</link>
+    <description>Recent content in 企业 on 纸上事躬行 PracticeOnPaper</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jul 2021 12:23:58 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>人之三性</title>
-      <link>http://localhost:1313/post/20210704%E4%BA%BA%E4%B9%8B%E4%B8%89%E6%80%A7/</link>
-      <pubDate>Sun, 04 Jul 2021 12:23:58 +0800</pubDate>
-      <guid>http://localhost:1313/post/20210704%E4%BA%BA%E4%B9%8B%E4%B8%89%E6%80%A7/</guid>
-      <description>人之三性 人性和理性的讨论文字，已经很多了，或者再用一个相当模糊或者不准确的定义，把人性置换为感性，大概文字会更多。 我却以为，还应该加上“财性</description>
-    </item>
+    <lastBuildDate>Wed, 30 Jun 2021 12:23:58 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%BC%81%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>说企业之利润的来源（二）</title>
       <link>http://localhost:1313/post/20210630%E8%AF%B4%E4%BC%81%E4%B8%9A%E4%B9%8B%E5%88%A9%E6%B6%A6%E7%9A%84%E6%9D%A5%E6%BA%90%E4%BA%8C/</link>
@@ -35,13 +28,6 @@
       <pubDate>Sat, 26 Jun 2021 13:23:58 +0800</pubDate>
       <guid>http://localhost:1313/post/20210626%E8%AF%B4%E4%BC%81%E4%B8%9A%E4%B9%8B%E7%9B%88%E5%88%A9%E7%9A%84%E6%84%8F%E4%B9%89/</guid>
       <description>说企业之盈利的意义 本篇及接下来的文章均倾向于谈论互联网行业的企业，且作者理论知识和实践经验极为有限，因而注定有所偏颇。在接下来的几篇文字中，</description>
-    </item>
-    <item>
-      <title>招聘十谈</title>
-      <link>http://localhost:1313/post/20210623%E6%8B%9B%E8%81%98%E5%8D%81%E8%B0%88/</link>
-      <pubDate>Wed, 23 Jun 2021 15:26:58 +0800</pubDate>
-      <guid>http://localhost:1313/post/20210623%E6%8B%9B%E8%81%98%E5%8D%81%E8%B0%88/</guid>
-      <description>招聘十谈 前言： 很早曾在朋友圈里说过整理一篇关于中小（qiongkun）团队招聘的文章，最终拖到现在，主要有几点原因，一是担心自己被无知和自大</description>
     </item>
   </channel>
 </rss>
