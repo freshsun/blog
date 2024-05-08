@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 纸上事躬行 PracticeOnPaper</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.practiceonpaper.net/categories/</link>
     <description>Recent content in Categories on 纸上事躬行 PracticeOnPaper</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Jul 2021 12:23:58 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.practiceonpaper.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>思考</title>
-      <link>http://localhost:1313/categories/%E6%80%9D%E8%80%83/</link>
+      <link>https://www.practiceonpaper.net/categories/%E6%80%9D%E8%80%83/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E6%80%9D%E8%80%83/</guid>
+      <guid>https://www.practiceonpaper.net/categories/%E6%80%9D%E8%80%83/</guid>
       <description></description>
     </item>
     <item>
       <title>管理</title>
-      <link>http://localhost:1313/categories/%E7%AE%A1%E7%90%86/</link>
+      <link>https://www.practiceonpaper.net/categories/%E7%AE%A1%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E7%AE%A1%E7%90%86/</guid>
+      <guid>https://www.practiceonpaper.net/categories/%E7%AE%A1%E7%90%86/</guid>
       <description></description>
     </item>
   </channel>

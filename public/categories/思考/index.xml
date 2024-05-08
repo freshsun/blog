@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>思考 on 纸上事躬行 PracticeOnPaper</title>
-    <link>http://localhost:1313/categories/%E6%80%9D%E8%80%83/</link>
+    <link>https://www.practiceonpaper.net/categories/%E6%80%9D%E8%80%83/</link>
     <description>Recent content in 思考 on 纸上事躬行 PracticeOnPaper</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Jul 2021 12:23:58 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.practiceonpaper.net/categories/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人之三性</title>
-      <link>http://localhost:1313/post/20210704%E4%BA%BA%E4%B9%8B%E4%B8%89%E6%80%A7/</link>
+      <link>https://www.practiceonpaper.net/post/20210704%E4%BA%BA%E4%B9%8B%E4%B8%89%E6%80%A7/</link>
       <pubDate>Sun, 04 Jul 2021 12:23:58 +0800</pubDate>
-      <guid>http://localhost:1313/post/20210704%E4%BA%BA%E4%B9%8B%E4%B8%89%E6%80%A7/</guid>
+      <guid>https://www.practiceonpaper.net/post/20210704%E4%BA%BA%E4%B9%8B%E4%B8%89%E6%80%A7/</guid>
       <description>人之三性 人性和理性的讨论文字，已经很多了，或者再用一个相当模糊或者不准确的定义，把人性置换为感性，大概文字会更多。 我却以为，还应该加上“财性</description>
     </item>
   </channel>
