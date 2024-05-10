@@ -5,4 +5,11 @@ menu = 'main'
 +++
 
 
-关于我
+从无实践经验
+
+向来纸上谈兵
+
+联系我：pop#practiceonpaper.net
+
+
+![wechat image](/img/about/wechat.jpg)
